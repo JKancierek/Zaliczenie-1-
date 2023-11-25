@@ -211,4 +211,31 @@ font-family: 'Work Sans', sans-serif;
     border-color: rgb(255, 255, 255);
 }
 
-/* PODTEKT */
+/* PODTEKT */    
+
+
+.podteks {
+display: flex;
+align-items: center;
+
+justify-content: space-between;
+width: 100%;
+background-color: ;
+}
+
+.tekst-w-podtekscie {
+height: 100%;
+
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+
+ 
+
+ gap: 50px;
+}
+
+.rozmiar-itp{
+font-weight: 400;
+   font-size: 18px;     
+}
