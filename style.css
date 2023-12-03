@@ -83,10 +83,10 @@ body {
     width: fit-content;
 
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 
     padding: 15px 55px;
-    border: 3px solid white;
+    border: 3px solid rgb(0, 0, 0);
 
     cursor: pointer;
 }
@@ -191,7 +191,6 @@ body {
     gap: 18px;
 
     box-shadow: 0px 4px 4px 0px #00000040;
-
 }
 
 .tile-heading {
@@ -204,7 +203,6 @@ body {
 .tile-description {
     color: #000000;
     font-size: 18px;
-
 }
 
 .new-reputation {
